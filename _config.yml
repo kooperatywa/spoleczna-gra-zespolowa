@@ -1,0 +1,9 @@
+# Site settings
+title: Społeczna gra zespołowa
+description: > # this means to ignore newlines until "baseurl:"
+  Interdyscyplinarne seminarium naukowe dotyczące fenomenu Społecznej Gry Zespołowej. Tematem przewodnim seminarium jest patriotyzm ekonomiczny i związane z gospodarką zjawisko sieci społecznych.
+url: "http://spolecznagrazespolowa.pl"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
