@@ -43,7 +43,7 @@ body {
 .site-nav {
 	float: right;
 	clear: left;
-	@media screen and (max-width: 770px) {
+	@media screen and (max-width: 890px) {
 		float: left;
 		margin-left: -10px;
 	}
@@ -132,10 +132,6 @@ img.ryby {
 	max-width: 825px;
 	@media screen and (max-width: 630px) {
 		padding-left: 0;
-	}
-	&:first-child {
-		border-top: none;
-		padding-top: 0;
 	}
 	img {
 		float: left;
