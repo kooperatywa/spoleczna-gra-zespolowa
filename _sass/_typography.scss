@@ -39,3 +39,21 @@ h3 {
 	font-size: 1.222em;
 	line-height: 1.145;
 }
+b {
+	color: $niebieski;
+}
+tr {
+	border-top: 1px dotted $niebieski;
+}
+td {
+	padding-bottom: 0.625em;
+	&:first-child {
+		padding-right: 1.25em;
+		min-width: 112px;
+		vertical-align: top;
+	}
+	p {
+		margin-top: 0;
+		margin-bottom: 0.375em;
+	}
+}
